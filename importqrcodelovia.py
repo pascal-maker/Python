@@ -1,5 +1,6 @@
 import qrcode
 # Link for website
+input_data = "https://play.google.com/store/apps/details?id=com.lovialove"
 input_data = "https://apps.apple.com/be/app/lovia/id1574149291?l=nl"
 #Creating an instance of qrcode
 qr = qrcode.QRCode(
