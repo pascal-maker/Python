@@ -1,6 +1,6 @@
 import qrcode
 # Link for website
-input_data = "https://play.google.com/store/apps/details?id=com.lovialove"
+input_data = "https://mergeurl.com/v/3ayji"
 #Creating an instance of qrcode
 qr = qrcode.QRCode(
         version=1,
