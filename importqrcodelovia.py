@@ -1,6 +1,6 @@
 import qrcode
 # Link for website
-input_data = "https://mergeurl.com/v/3ayji"
+input_data = "https://apps.apple.com/be/app/lovia/id1574149291?l=nl"
 #Creating an instance of qrcode
 qr = qrcode.QRCode(
         version=1,

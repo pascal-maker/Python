@@ -1,6 +1,6 @@
 import qrcode
 # Link for website
-input_data = "https://mergeurl.com/v/3ayji"
+input_data = "https://play.google.com/store/apps/details?id=com.lovialove"
 #Creating an instance of qrcode
 qr = qrcode.QRCode(
         version=1,
@@ -9,4 +9,4 @@ qr = qrcode.QRCode(
 qr.add_data(input_data)
 qr.make(fit=True)
 img = qr.make_image(fill='black', back_color='white')
-img.save('qrcode001.png')
+img.save('qrcode002.png')
